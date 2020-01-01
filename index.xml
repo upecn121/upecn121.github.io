@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://upecn121.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2019 13:10:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://upecn121.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://upecn121.github.io/post/blog/</link>
+      <pubDate>Mon, 30 Dec 2019 13:10:16 +0800</pubDate>
+      
+      <guid>https://upecn121.github.io/post/blog/</guid>
+      <description>我展示的是一级标题 我展示的是二级标题 一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 斜体文本
+斜体文本
+粗体文本
+粗体文本
+粗斜体文本
+粗斜体文本</description>
+    </item>
+    
+  </channel>
+</rss>
